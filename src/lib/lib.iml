@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$" />
+    <content url="jar://$MODULE_DIR$/antlr-2.7.6.jar!/" />
+    <content url="jar://$MODULE_DIR$/aopalliance-1.0.jar!/" />
+    <content url="jar://$MODULE_DIR$/aspectjweaver.jar!/" />
+    <content url="jar://$MODULE_DIR$/cglib-nodep-2.1_3.jar!/" />
+    <content url="jar://$MODULE_DIR$/commons-collections-3.1.jar!/" />
+    <content url="jar://$MODULE_DIR$/commons-logging-1.1.1.jar!/" />
+    <content url="jar://$MODULE_DIR$/commons-logging-api-1.1.jar!/" />
+    <content url="jar://$MODULE_DIR$/dom4j-1.6.1.jar!/" />
+    <content url="jar://$MODULE_DIR$/ehcache-1.2.4.jar!/" />
+    <content url="jar://$MODULE_DIR$/hibernate-jpa-2.0-api-1.0.1.Final.jar!/" />
+    <content url="jar://$MODULE_DIR$/hibernate3.jar!/" />
+    <content url="jar://$MODULE_DIR$/javassist-3.12.0.GA.jar!/" />
+    <content url="jar://$MODULE_DIR$/jta-1.1.jar!/" />
+    <content url="jar://$MODULE_DIR$/mysql-connector-java-5.0.8-bin.jar!/" />
+    <content url="jar://$MODULE_DIR$/org.springframework.aop-3.1.0.M2.jar!/" />
+    <content url="jar://$MODULE_DIR$/org.springframework.asm-3.1.0.M2.jar!/" />
+    <content url="jar://$MODULE_DIR$/org.springframework.aspects-3.1.0.M2.jar!/" />
+    <content url="jar://$MODULE_DIR$/org.springframework.beans-3.1.0.M2.jar!/" />
+    <content url="jar://$MODULE_DIR$/org.springframework.context-3.1.0.M2.jar!/" />
+    <content url="jar://$MODULE_DIR$/org.springframework.context.support-3.1.0.M2.jar!/" />
+    <content url="jar://$MODULE_DIR$/org.springframework.core-3.1.0.M2.jar!/" />
+    <content url="jar://$MODULE_DIR$/org.springframework.expression-3.1.0.M2.jar!/" />
+    <content url="jar://$MODULE_DIR$/org.springframework.instrument-3.1.0.M2.jar!/" />
+    <content url="jar://$MODULE_DIR$/org.springframework.instrument.tomcat-3.1.0.M2.jar!/" />
+    <content url="jar://$MODULE_DIR$/org.springframework.jdbc-3.1.0.M2.jar!/" />
+    <content url="jar://$MODULE_DIR$/org.springframework.jms-3.1.0.M2.jar!/" />
+    <content url="jar://$MODULE_DIR$/org.springframework.orm-3.1.0.M2.jar!/" />
+    <content url="jar://$MODULE_DIR$/org.springframework.oxm-3.1.0.M2.jar!/" />
+    <content url="jar://$MODULE_DIR$/org.springframework.test-3.1.0.M2.jar!/" />
+    <content url="jar://$MODULE_DIR$/org.springframework.transaction-3.1.0.M2.jar!/" />
+    <content url="jar://$MODULE_DIR$/org.springframework.web-3.1.0.M2.jar!/" />
+    <content url="jar://$MODULE_DIR$/org.springframework.web.portlet-3.1.0.M2.jar!/" />
+    <content url="jar://$MODULE_DIR$/org.springframework.web.servlet-3.1.0.M2.jar!/" />
+    <content url="jar://$MODULE_DIR$/org.springframework.web.struts-3.1.0.M2.jar!/" />
+    <content url="jar://$MODULE_DIR$/slf4j-api-1.6.1.jar!/" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
