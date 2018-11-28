@@ -117,7 +117,7 @@ public class Test {
                             buffer.append(list.get(1)+"\n");
                             rs = p_seclct.executeQuery();
                             while (rs.next()){
-                                list_select.append(rs.getString(0));
+                                list_select.append(rs.getString(1));
                             }
                             list_select.append(list.get(1));
                             p_upd.setString(1,list_select.toString());
