@@ -38,6 +38,10 @@
     <content url="jar://$MODULE_DIR$/org.springframework.web.servlet-3.1.0.M2.jar!/" />
     <content url="jar://$MODULE_DIR$/org.springframework.web.struts-3.1.0.M2.jar!/" />
     <content url="jar://$MODULE_DIR$/slf4j-api-1.6.1.jar!/" />
+    <content url="jar://$MODULE_DIR$/../../../gson-2.8.5.jar!/META-INF" />
+    <content url="jar://$MODULE_DIR$/../../../src/lib/Gson-2.8.0.jar!/" />
+    <content url="jar://$MODULE_DIR$/../../../src/lib/gson-2.8.5.jar!/META-INF" />
+    <content url="jar://$MODULE_DIR$/../../../src/lib/gson-2.8.5.jar!/com" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
